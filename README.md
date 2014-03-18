@@ -1,6 +1,6 @@
 # clean-css-uncss-brunch
 
-Adds [clean-css](https://github.com/brunch/clean-css-brunch) and [UnCSS](https://github.com/giakki/uncss) support for Brunch
+Adds [clean-css](https://github.com/GoalSmashers/clean-css) and [UnCSS](https://github.com/giakki/uncss) support for Brunch
 
 ## Why two proceses in one plugin?
 
