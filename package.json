@@ -1,7 +1,7 @@
 {
     "name": "clean-css-uncss-brunch",
     "version": "1.0.0",
-    "description": "NPM Package for clean-css-uncss-brunch",
+    "description": "Adds clean-css and UnCSS support to brunch.",
     "homepage": "https://github.com/jakubburkiewicz/clean-css-uncss-brunch",
     "license": "MIT",
     "repository": {
