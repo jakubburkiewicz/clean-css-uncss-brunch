@@ -1,0 +1,19 @@
+{
+    "name": "clean-css-uncss-brunch",
+    "version": "1.0.0",
+    "description": "NPM Package for clean-css-uncss-brunch",
+    "homepage": "https://github.com/jakubburkiewicz/clean-css-uncss-brunch",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jakubburkiewicz/clean-css-uncss-brunch"
+    },
+    "author": {
+        "name": "Jakub Burkiewicz",
+        "email": "jakub@burkiewicz.eu"
+    },
+    "dependencies": {
+        "uncss": "~0.7.9",
+        "clean-css": "~1.1.2"
+    }
+}
